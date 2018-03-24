@@ -13,7 +13,7 @@ a collection of interview questions about IT, ML, Web and so on.
 注意事项如下：
 
 * 数学公式建议采用在线Latex编译器  
-\<img align="center" src="http://latex.codecogs.com/gif.latex?数学公式">
+\<img src="http://latex.codecogs.com/gif.latex?数学公式">
 * 插入图片建议采用HTML tag引用在线图片
 * 插入代码建议采用兼容Github的Markdown语法
 * 欢迎解答未解答的问题，或为已有答案纠错、补充
